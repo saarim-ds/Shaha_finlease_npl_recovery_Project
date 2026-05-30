@@ -85,23 +85,6 @@ shaha-finlease-npl-recovery/
 └── README.md                           # This file
 ```
 
----
 
-## How to Run
 
-```bash
-# Clone the repo
-git clone https://github.com/saarimds/shaha-finlease-npl-recovery.git
-cd shaha-finlease-npl-recovery
 
-# Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# Launch notebook
-jupyter notebook shaha_finlease_npl_recovery.ipynb
-```
-
----
-
-**Author:** Mohammad Saarim Khan  
-[GitHub](https://github.com/saarimds) · [LinkedIn](https://linkedin.com/in/m-saarim-khan)
